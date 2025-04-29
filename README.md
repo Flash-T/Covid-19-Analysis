@@ -1,0 +1,10 @@
+## 这是一个python数据分析期末作业
+1. 选题是疫情数据分析平台
+2. 技术栈：
+   - Pandas
+   - Numpy
+   - Scrapy
+   - Django
+   - Mysql
+   - Echarts
+   - Ajax
